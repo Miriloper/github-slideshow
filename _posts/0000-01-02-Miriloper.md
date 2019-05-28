@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+![BFF](https://i.imgur.com/zwqBelq.jpg)
 Use the left arrow to go back!
